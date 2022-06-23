@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alikhan</h1>
-<h3 align="center">Junior Sofrware Developer</h3>
+<h3 align="center">Salesforce Fullstack Developer👨‍💻</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React|Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alikhans](https://github.com/Alikhans)
 
@@ -12,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alikhan avtandil uulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alikhan avtandil uulu" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
