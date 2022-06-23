@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alikhan</h1>
 <h3 align="center">Junior Sofrware Developer</h3>
 
-- 🌱 I’m currently learning **Django, TensorFlow and Apex**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alikhans](https://github.com/Alikhans)
 
