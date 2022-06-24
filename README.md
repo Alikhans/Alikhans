@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alikhan</h1>
 <h3 align="center">Salesforce Fullstack Developer👨‍💻</h3>
 
-- 🌱 I’m currently learning **React|Node.js**
+- 🌱 I’m currently learning **React | Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alikhans](https://github.com/Alikhans)
 
