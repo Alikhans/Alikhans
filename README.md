@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alikhan</h1>
-<h3 align="center">Salesforce Fullstack Developer👨‍💻</h3>
+<h3 align="center">Front-End Developer👨‍💻</h3>
 
 - 🌱 I’m currently learning **React | Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alikhans](https://github.com/Alikhans)
 
 - 📫 How to reach me **aavtandilpv@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/alikhan-avtandil-uulu-462928199/](https://www.linkedin.com/in/alikhan-avtandil-uulu-462928199/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
